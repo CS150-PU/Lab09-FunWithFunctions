@@ -103,7 +103,7 @@ Function:			getPositiveInt
 Description:	Get's a positive integer from stdin (keyboard). Validate 
 							with a do while until the integer is >= 0
 
-Parameters:		None
+Parameters:		prompt - text outputted for the user input
 
 Returned:			An integer greater than or equal to 0
 ***********************************************************************/
